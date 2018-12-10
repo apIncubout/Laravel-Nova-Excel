@@ -60,7 +60,7 @@
 :bulb: Require this package in the `composer.json` of your Laravel project. This will download the package and Laravel-Excel.
 
 ```
-composer require maatwebsite/laravel-nova-excel
+composer require ap-incubout/laravel-nova-excel
 ```
 
 :muscle: Go to your resource. As example we'll use the `app/Nova/User.php`. Add `DownloadExcel` action to your `actions()` list.
