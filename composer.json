@@ -1,5 +1,5 @@
 {
-  "name": "maatwebsite/laravel-nova-excel",
+  "name": "ap-incubout/laravel-nova-excel",
   "description": "Supercharged Excel exports for Laravel Nova Resources",
   "license": "MIT",
   "keywords": [
@@ -18,8 +18,7 @@
   ],
   "require": {
     "php": ">=7.1.0",
-    "illuminate/support": "^5.6",
-    "laravel/nova": "*",
+    "illuminate/support": "^5.6",    
     "maatwebsite/excel": "^3.0.10"
   },
   "autoload": {
